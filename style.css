@@ -112,6 +112,9 @@ i:hover {
   line-height: 1.3em;
 }
 
+ul {
+  padding-left: 0px;
+}
 
 .body-bg {
   background-image: url("images_movies/background.jpg");
